@@ -1,7 +1,7 @@
 ## Wazuh Manager Installation
 This process will go through the installation of the **Wazuh Manager** in a 1 GB RAM **Ubuntu Server 20.04** node.
 
-**Note:** It is recommended to set Static IP address for this node rather than static one.
+**Note:** It is recommended to set Static IP address for this node rather than a Dynamic one.
 
 **Note:** Root user privileges are required to execute all the following commands.
 
